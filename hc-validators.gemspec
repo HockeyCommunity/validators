@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Jack Hayter']
   spec.email         = ['jack@hockey-community.com']
 
-  spec.summary       = 'A super simple object serializer'
-  spec.description   = 'Transforms objects and collections into hashes for rendering as JSON'
+  spec.summary       = 'Class validator'
+  spec.description   = 'Provides data class validation for active-model objects'
   spec.homepage      = 'https://github.com/HockeyCommunity/validators'
   spec.license       = 'MIT'
 
