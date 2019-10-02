@@ -2,7 +2,7 @@
 
 require 'active_model'
 
-module HC
+module Hc
   module Validators
     # Allows for ActiveRecord validation of class types
     #
